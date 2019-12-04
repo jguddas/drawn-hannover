@@ -1,0 +1,13 @@
+{
+  "name": "drawn-hannover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "jumpstart start index.js",
+    "build": "jumpstart build index.js"
+  },
+  "dependencies": {
+    "jumpstart-cli": "^4.0.0",
+    "leaflet": "^1.6.0"
+  }
+}
